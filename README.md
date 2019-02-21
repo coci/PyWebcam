@@ -1,4 +1,2 @@
-# PyWebcam
-Python webcam capture
-just run it wiht python command .
-first install openCv
+# Python webcam capture
+first install openCv and enjoy it .
